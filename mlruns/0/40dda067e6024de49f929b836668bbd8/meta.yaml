@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DIPIKA/mlflow/mlruns/0/40dda067e6024de49f929b836668bbd8/artifacts
+end_time: 1711108279115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40dda067e6024de49f929b836668bbd8
+run_name: thundering-hare-570
+run_uuid: 40dda067e6024de49f929b836668bbd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711108279050
+status: 3
+tags: []
+user_id: DIPIKA
