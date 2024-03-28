@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DIPIKA/mlflow/mlruns/0/d8540f84e898466b81d4c0bffeea6eb9/artifacts
+end_time: 1711444296884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8540f84e898466b81d4c0bffeea6eb9
+run_name: big-crane-456
+run_uuid: d8540f84e898466b81d4c0bffeea6eb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711444296681
+status: 4
+tags: []
+user_id: DIPIKA

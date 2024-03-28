@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DIPIKA/mlflow/mlruns/0/5f39973894d84291be038ccb53f6ec4d/artifacts
+end_time: 1711444008854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f39973894d84291be038ccb53f6ec4d
+run_name: upset-wolf-137
+run_uuid: 5f39973894d84291be038ccb53f6ec4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711444008634
+status: 4
+tags: []
+user_id: DIPIKA

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DIPIKA/mlflow/mlruns/0/184b26c29a444a35afaddf807a03d9dd/artifacts
+end_time: 1711444215931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 184b26c29a444a35afaddf807a03d9dd
+run_name: dashing-quail-996
+run_uuid: 184b26c29a444a35afaddf807a03d9dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711444210866
+status: 3
+tags: []
+user_id: DIPIKA

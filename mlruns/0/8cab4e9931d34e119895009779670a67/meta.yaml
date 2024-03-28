@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DIPIKA/mlflow/mlruns/0/8cab4e9931d34e119895009779670a67/artifacts
+end_time: 1711444171968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cab4e9931d34e119895009779670a67
+run_name: unruly-cod-926
+run_uuid: 8cab4e9931d34e119895009779670a67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711444171732
+status: 4
+tags: []
+user_id: DIPIKA

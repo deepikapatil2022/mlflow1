@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DIPIKA/mlflow/mlruns/0/f55282cceacd49a7bdceb9f3b16f4856/artifacts
+end_time: 1711444416420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f55282cceacd49a7bdceb9f3b16f4856
+run_name: intrigued-panda-168
+run_uuid: f55282cceacd49a7bdceb9f3b16f4856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711444413269
+status: 3
+tags: []
+user_id: DIPIKA
